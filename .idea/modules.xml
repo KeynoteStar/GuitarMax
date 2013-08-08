@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GuitarMax/GuitarMax.iml" filepath="$PROJECT_DIR$/GuitarMax/GuitarMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuitarMax/GuitarMax-GuitarMax.iml" filepath="$PROJECT_DIR$/GuitarMax/GuitarMax-GuitarMax.iml" />
       <module fileurl="file://$PROJECT_DIR$/GuitarMaxProject.iml" filepath="$PROJECT_DIR$/GuitarMaxProject.iml" />
     </modules>
   </component>
