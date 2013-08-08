@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GuitarMax/GuitarMax.iml" filepath="$PROJECT_DIR$/GuitarMax/GuitarMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuitarMaxProject.iml" filepath="$PROJECT_DIR$/GuitarMaxProject.iml" />
+    </modules>
+  </component>
+</project>
+
